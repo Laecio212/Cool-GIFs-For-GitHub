@@ -317,6 +317,9 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
 <br><br>
 
+- Manicraft
+- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV3YmIzeHRqczIzYmtvdm1rcWJvcWR4NXJkNW80dXp4NXE0cXR3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" width="500"> 
+
 - Browsing
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
 <br><br>
